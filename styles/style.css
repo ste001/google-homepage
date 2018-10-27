@@ -1,7 +1,7 @@
 .container-fluid{
 	width: 600px;
 	margin: 0 auto;
-	padding-top: 100px;
+	padding-top: 200px;
 }
 
 .center{
@@ -12,4 +12,41 @@
 	width: 600px;
 	padding-top: 15px;
 	margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	float: right;
+	font-size: smaller;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    color: #141414e6;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:hover{
+	opacity: .85;
+	text-decoration: underline;
+}
+
+#sign{
+	color: white;
+	background: -moz-linear-gradient(top,#4387fd,#4683ea);
+	border: none;
+	padding: 6px 20px;
+}
+
+.list{
+	padding-top: 5px;
 }
