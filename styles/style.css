@@ -50,3 +50,16 @@ a:hover{
 .list{
 	padding-top: 5px;
 }
+
+#buttons{
+	float: none;
+	margin: auto;
+	width: 25%;
+	padding-top: 15px;
+}
+
+.searchbutton{
+	background: #f6f6f6;
+	border: none;
+	padding: 6px 16px;
+}
